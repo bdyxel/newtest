@@ -1,2 +1,1 @@
-linux new add code
-new win code add
+win edit
